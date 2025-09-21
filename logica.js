@@ -1,12 +1,12 @@
 	
 	/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~~~~°
-	|	UNIVERSIDAD LIBRE SECCIONAL CALI	           |~~~~~~~~~~~~°
-	|	INGENIERÍA DE SISTEMAS			                 |~~~~~~~°
-	|	PROGRAMACIÓN WEB			                       |~~~~~~~~~~~~~~~~~~~~~°
-	|	PARCIAL CORTE #1			                       |~~~~~~~~~~~~~~°
-	|	ESTUDIANTES:                                 |~~~~~~~~~°
-  |	• Javier Camilo Lenis Grisales               |~~~~~~~~~~~~~~~~°
-  | • Juan José Polo                             |~~~~~~~~~°
+	|	UNIVERSIDAD LIBRE SECCIONAL CALI	       |~~~~~~~~~~~~°
+	|	INGENIERÍA DE SISTEMAS			           |~~~~~~~°
+	|	PROGRAMACIÓN WEB			               |~~~~~~~~~~~~~~~~~~~~~°
+	|	PARCIAL CORTE #1			               |~~~~~~~~~~~~~~°
+	|	ESTUDIANTES:                               |~~~~~~~~~°
+    |	• Javier Camilo Lenis Grisales             |~~~~~~~~~~~~~~~~°
+    |   • Juan José Polo                           |~~~~~~~~~°
 	|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
 google.charts.load('current', { packages: ['corechart'] });
@@ -144,4 +144,5 @@ function buscarPromedio(x, rangos) {
   }
   return null;
 }
+
 
